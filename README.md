@@ -6,6 +6,13 @@ I love the outdoors, spending a lot of my weekends fishing, snowboarding, surfin
 I was raised in Boise Idaho and still remain there. 
 
 Im currently working on my skills as a developer. 
-My skills include: JavaScript, React, Redux, Sqlite3, CSS, HTML, and Axios.
+My skills include:
+-JavaScript
+-React
+-Redux
+-Sqlite3
+-CSS
+-HTML
+-Axios
 
 
